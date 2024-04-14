@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "substruct",
+    "substruct-derive",
+]
+resolver = "2"
